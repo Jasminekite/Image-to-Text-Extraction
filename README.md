@@ -1,1 +1,1 @@
-# Image-to-text-extraction
+# Image-to-Text-Extraction
